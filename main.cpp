@@ -1,14 +1,6 @@
 /*
    -- wireless-stepper-stand --
 
-   This source code of graphical user interface
-   has been generated automatically by RemoteXY editor.
-   To compile this code using RemoteXY library 2.4.3 or later version
-   download by link http://remotexy.com/en/library/
-   To connect using RemoteXY mobile app by link http://remotexy.com/en/download/
-     - for ANDROID 4.3.1 or later version;
-     - for iOS 1.3.5 or later version;
-
    This source code is free software; you can redistribute it and/or
    modify it under the terms of the GNU Lesser General Public
    License as published by the Free Software Foundation; either
